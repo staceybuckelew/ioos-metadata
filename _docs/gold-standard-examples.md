@@ -34,7 +34,7 @@ Links:
 In this example, multiple packages are served in a single ERDDAP dataset.
 
 * [ERDDAP Dataset](http://erddap.sensors.axds.co/erddap/tabledap/ssbn7-sun2wave-sun2w-sunset-n.html) 
-* [View in CeNCOOS Data Portal](https://portal.secoora.org/?&sensor_version=v2#metadata/100058/station/data)
+* [View in SECOORA Data Portal](https://portal.secoora.org/?&sensor_version=v2#metadata/100058/station/data)
 
 ### Moored buoy, multiple packages, each with its own dataset
 
